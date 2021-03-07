@@ -1,0 +1,18 @@
+.countryContainer{
+    text-align: center;
+    border: 1px solid black;
+    padding: 15px;
+    margin: 20px;
+}
+.addCountryBtn{
+    background-color: white;
+    color: #036803;
+    padding: 8px 25px;
+    border: 1px solid #036803;
+    border-radius: 5px;
+}
+.addCountryBtn:hover{
+    background-color: #036803;
+    color: white;
+    cursor: pointer;
+}
